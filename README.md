@@ -41,7 +41,7 @@ The ACT leverages state contracts to elicit 100% participation in nearly one thi
 The SAT falls behind with 11.1%.
 
 Which states can the College Board target for contracts to implement mandatory state-wide SAT testing?
-![Texas and California](./Plots/texas-california.png)
+![Texas and California](./plots/texas-california.png)
 
 Texas and California are the two most populous states in the country. Additionally, participation rates in both states are trending towards the SAT and away from the ACT. These two states make the perfect candidates to pursue for state contracts.
 
